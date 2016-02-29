@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.335198
+# {'>=0.8.0'}
+watchurl=https://rubygems.org/gems/ethon/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
