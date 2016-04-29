@@ -1,6 +1,6 @@
 Name     : rubygem-ethon
 Version  : 0.8.1
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/ethon-0.8.1.gem
 Source0  : https://rubygems.org/downloads/ethon-0.8.1.gem
 Summary  : No detailed summary available
